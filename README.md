@@ -58,7 +58,8 @@ G40,high,yes,excellent,yes
 ## Banking dataset
 ![exp2bank1](https://github.com/varalakshmi1084/WDM_EXP2/assets/93427594/07e96211-a387-456b-9040-aede6c41f97b)
 ## Buying dataset
-exp2(2)](https://github.com/varalakshmi1084/WDM_EXP2/assets/93427594/ba326257-dc42-482c-96a5-7e556c71c5a6)
+![exp2(1)](https://github.com/Archana2003-Jkumar/WDM_EXP2/assets/93427594/61e32485-d5b9-48da-9128-9ab9cf808911)
+
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
