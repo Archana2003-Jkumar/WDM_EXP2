@@ -53,5 +53,15 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+## Employee dataset
+![exp2emp1](https://github.com/varalakshmi1084/WDM_EXP2/assets/93427594/2753cfc6-cbcc-41f1-a26b-17b76c04ca09)
+![exp2emp2](https://github.com/varalakshmi1084/WDM_EXP2/assets/93427594/0a634b6e-5aec-4bfc-82fa-5980291ddd00)
+## Banking dataset
+![exp2bank1](https://github.com/varalakshmi1084/WDM_EXP2/assets/93427594/07e96211-a387-456b-9040-aede6c41f97b)
+![exp2bank2](https://github.com/varalakshmi1084/WDM_EXP2/assets/93427594/7c01d748-ea6c-45d9-b564-e4418113b359)
+## Buying dataset
+![exp2(1)](https://github.com/varalakshmi1084/WDM_EXP2/assets/93427594/881f1744-ee87-4840-ba1e-7bbb948d06c6)
+![exp2(2)](https://github.com/varalakshmi1084/WDM_EXP2/assets/93427594/ba326257-dc42-482c-96a5-7e556c71c5a6)
 
 ### RESULT: 
+Thus generation of  associate rules for the various dataset using Apriori Algorithm has been successfully executed.
